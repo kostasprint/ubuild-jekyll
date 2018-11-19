@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: default
 pages:
+- nuova-pagina.md
 - _posts/ciao.md
